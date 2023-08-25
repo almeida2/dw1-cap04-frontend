@@ -1,2 +1,2 @@
-# cap04-fronend
+# Cap04-frontend - React
 Created with CodeSandbox
